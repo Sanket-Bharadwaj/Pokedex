@@ -23,8 +23,8 @@ A cute, modern, and mobile-first Pokédex app built with **HTML**, **CSS**, and 
 
 ## Demo
 
-Check out the live app at [pokekawaii.vercel.app](pokedexx-new.vercel.app)  
-*Replace with your actual Vercel URL if different.*
+Check out the live app at [HERE](pokedexx-new.vercel.app)  
+
 
 > **Note:** Ensure an internet connection for PokéAPI data fetching.
 
