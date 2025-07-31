@@ -46,8 +46,8 @@ Check out the live app at [HERE](pokedexx-new.vercel.app)
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/Sanket-Bharadwaj/pokekawaii.git
-    cd pokekawaii
+    git clone https://github.com/Sanket-Bharadwaj/pokedex.git
+    cd pokedex
     ```
 
 2. **Serve Locally:**
