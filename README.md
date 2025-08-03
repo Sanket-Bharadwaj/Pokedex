@@ -32,7 +32,6 @@ Check out the live app at [HERE](pokedexx-new.vercel.app)
 
 ## Screenshots
 
-<!-- Add your screenshots here -->
 - **Mobile View**
 ![Pokedex](https://github.com/user-attachments/assets/9aa587b4-cd0e-4eec-b0f4-9cfe852ead2f)
 
